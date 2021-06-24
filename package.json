@@ -2,6 +2,7 @@
     "author": "Anmol Tuli",
     "name": "fcc-learn-npm-package-json",
     "description": "this is my server side project in freecodecamp",
+    "keywords":["freecodecamp", "server", "APIs"],
     "dependencies": {
         "express": "^4.17.1"
     },
