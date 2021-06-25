@@ -5,7 +5,7 @@
     "keywords":["freecodecamp", "server", "APIs"],
     "dependencies": {
         "express": "^4.17.1",
-        "moment": "2.14.0"
+        "moment": "2.10.2"
     },
     "main": "server.js",
     "scripts": {
