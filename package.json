@@ -4,8 +4,7 @@
     "description": "this is my server side project in freecodecamp",
     "keywords":["freecodecamp", "server", "APIs"],
     "dependencies": {
-        "express": "^4.17.1",
-        "moment": "^2.10.2"
+        "express": "^4.17.1"
     },
     "main": "server.js",
     "scripts": {
